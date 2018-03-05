@@ -11,5 +11,7 @@ let mix = require('laravel-mix');
  |
  */
 
-mix.js(['resources/assets/js/app.js','resources/assets/js/fontawesome-all.js'], 'public/js')
+mix.js(['resources/assets/js/app.js','resources/assets/js/chart_usage.js'], 'public/js')
    .sass('resources/assets/sass/app.scss', 'public/css');
+
+mix.js('resources/assets/js/color-picker.js', 'public/js');

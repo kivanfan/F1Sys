@@ -6,6 +6,8 @@
  */
 
 require('./bootstrap');
+require('chart.js');
+require('datatables.net');
 
 window.Vue = require('vue');
 
