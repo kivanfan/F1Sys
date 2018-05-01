@@ -1,9 +1,6 @@
 
 <div class="row">
 <div class="col-sm-3">
-    <p><input type="text" id="picker"></p>
-    <p><input type="text" id="picker2"></p>
-
 </div>
 
 <div class="col-sm-9">

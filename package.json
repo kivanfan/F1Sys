@@ -22,6 +22,8 @@
     "dependencies": {
         "chart.js": "^2.7.1",
         "datatables.net": "^1.10.16",
-        "datatables.net-dt": "^1.10.16"
+        "datatables.net-dt": "^1.10.16",
+        "laravel-echo": "^1.3.5",
+        "pusher-js": "^4.2.2"
     }
 }

@@ -1,6 +1,4 @@
-<?php
-$chart = 'active';
-?>
+
 @extends('main')
 
 @section('content')
